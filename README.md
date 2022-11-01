@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnhNgDo
-- 👀 I’m interested in application of AI, automation and statistical learning in everyday life.
-- 🌱 I’m currently learning machine learning, application development
-- 💞️ I’m looking to collaborate on fun or interesting projects in the domain of AI/ML applications
+- 👀 I’m interested in application of machine learning & AI automation in everyday life.
+- 🌱 I’m currently learning machine learning, web development
+- 💞️ I’m looking to collaborate on fun or interesting projects that are beginner friendly!
 
 <!---
 AnhNgDo/AnhNgDo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
