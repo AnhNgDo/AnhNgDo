@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AnhNgDo
-- 👀 I’m interested in application of machine learning & AI automation in everyday life.
-- 🌱 I’m currently learning machine learning, web development
-- 💞️ I’m looking to collaborate on fun or interesting projects that are beginner friendly!
+- 👀 I’m interested in game development, AI/ML, Data Science
+- 🌱 Currently learning Flutter & Python
+- 💞️ Looking to collaborate on fun projects that are beginner friendly!
 
 <!---
 AnhNgDo/AnhNgDo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
